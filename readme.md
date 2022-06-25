@@ -1,6 +1,6 @@
 Built using laravel 5.8
 
-###Note
+### Note
 - Tabel menggunakan migration, jalankan perintah `php artisan migrate` untuk membuat tabel
 
 Preview
